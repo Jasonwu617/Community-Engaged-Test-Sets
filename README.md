@@ -9,5 +9,17 @@ We introduce a generalizable mode of scientific outreach that couples a publishe
 # Dataset
 Our data was collected in house using automated modular block synthesis and automated characterization. We had a training set of 42 light-harvesting small molecules and a test set of 7 molecules. For each molecule in the dataset, we provided 144 chemical features calculated from RDKit and TDDFT as well as the corresponding SMILES string.
 
+<a href="https://github.com/Jasonwu617/Community-Engaged-Test-Sets/blob/main/train.csv">train.csv</a>
+
+<a href="https://github.com/Jasonwu617/Community-Engaged-Test-Sets/blob/main/test.csv">test.csv</a>
+
+# Authors
+Jason L. Wu, David M. Friday, Changhyun Hwang, Seungjoo Yi, Tiara C. Torres-Flores, Martin D. Burke, Ying Diao, Charles M. Schroeder, Nicholas E. Jackson
+
+# Funding Acknowledgements
+This work was supported by the Molecule Maker Lab Institute, an AI Research Institutes program supported by the US National Science Foundation under grant no. 2019897 and grant no. 2505932.
+
+
+
 
 
